@@ -1,3 +1,5 @@
+// Age Checker
+
 function checkAge(age) {
 
     if (age < 5) return "A child";
